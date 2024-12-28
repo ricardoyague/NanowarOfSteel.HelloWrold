@@ -1,2 +1,2 @@
 # NanowarOfSteel.HelloWrold
-A small contribution to this huge group
+A small contribution to this huge band
