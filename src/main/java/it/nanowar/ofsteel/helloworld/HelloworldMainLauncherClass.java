@@ -29,8 +29,8 @@ public class HelloworldMainLauncherClass {
 
 	}
 
-	/*I
-	 * If I may introduce a bugt, he JVM will manage it for me
+	/*
+	 * If I may introduce a bug, he JVM will manage it for me
 	 * ensuring both security and portability
 	 * Then I'll write my code once, and run it everywhere!
 	 * With Static and Strong Typing, Will let my programs be type safe!
